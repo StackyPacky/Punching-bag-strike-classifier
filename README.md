@@ -1,5 +1,5 @@
 # Punch Detector
-
+VIDEO DEMO: https://drive.google.com/file/d/1ubXF2s9OXG1rroEfGz7wi9pADXxgrA-R/view?usp=sharing
 A real-time punch classification system built for a heavy bag using Arduino, piezo sensors, an accelerometer, Python, and a machine learning model.
 
 The goal of this project is to detect different strikes on a punching bag, classify them live, and display the result in a simple desktop UI.
